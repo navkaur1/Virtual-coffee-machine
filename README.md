@@ -1,2 +1,6 @@
 # Virtual-coffee-machine
 Virtual Coffee Machine (VCM) is a computer operated program which has functionality similar to vending machines for dispensing coffees but in virtual environment.  It gives the user option of depositing coins of 1,2,5,10,20,50 cents or 1,2 dollars, one at time. After coin deposit, the user can choose coffee from three provided options such as Cappuccino, Latte and Decaf and dispense chosen coffee. User can also collect change anytime during the program which will be shown in least coinage breakdown.
+
+
+Procedure to use the VCM 
+1. Select any coin from provided coin options and then click deposit button. (you can only add one coin at a time.) 2. If you wish to add a larger amount, repeat step1. 3. Once sufficient funds are added, select any coffee from option of Cappuccino, Latte and Decaf and click “Dispense Coffee” button. 4. Once coffee is dispensed, you can make another coffee (if there is sufficient funds) or change can be collected by clicking “collect Change” button or more funds can be added. 5. However, change can be collected anytime during the process by clicking “collect Change” button. 6. If user wishes to restart the program and start from beginning in the middle of the program, this can be done by clicking “Restart” button anytime. 
